@@ -1,0 +1,37 @@
+---
+title: "Maggie Lei"
+image: "maggie.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/maggie-lei"
+  - label: GitHub
+    url: "https://github.io/leihm8"
+  - label: Email
+    url: "leihm8@gmail.com"
+output:
+  postcards::trestles
+---
+
+## About Me
+
+I am an MHS student studying Epidemiology at Johns Hopkins Bloomberg School of Public Health. I am excited to start my program here! I am originally from Colorado, and I completed my undergraduate degree at the University of Washington in Seattle.
+
+## Study Interests
+
+I am interested in using spatial analysis to explore the distribution of nutrition-related outcomes to study the disparities and their connection to the social determinants of health.
+
+## Education
+
+**Johns Hopkins Bloomberg School of Public Health** \| Baltimore, MD
+
+MHS in Epidemiology \| September 2024 - Present
+
+**University of Washington** \| Seattle, WA
+
+B.S. in Public Health-Global Health \| September 2019 - June 2023
+
+## Experience
+
+**CU Anschutz - Department of Orthopedics** \| Research Assistant \| August 2023 - August 2024
+
+**University of Washington - Department of Radiology** \| Undergraduate Research Assistant \| June 2022 - June 2023
