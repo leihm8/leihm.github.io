@@ -5,7 +5,7 @@ links:
   - label: LinkedIn
     url: "https://linkedin.com/in/maggie-lei"
   - label: GitHub
-    url: "https://github.io/leihm8/"
+    url: "https://github.com/leihm8/"
   - label: Email
     url: "mailto:leihm8@gmail.com"
 output:
