@@ -3,13 +3,11 @@ title: "Maggie Lei"
 image: "maggie.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/maggie-lei"
     url: "https://linkedin.com/in/maggie-lei"
   - label: GitHub
-    url: "https://github.io/leihm8"
     url: "https://github.io/leihm8/"
   - label: Email
-    url: "leihm8@gmail.com"
+    url: "mailto:leihm8@gmail.com"
 output:
   postcards::trestles
 ---
