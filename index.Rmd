@@ -1,6 +1,7 @@
 ---
 title: "Maggie Lei"
 image: "maggie.jpg"
+favicon: "mlicon.png"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/in/maggie-lei"
